@@ -11,8 +11,8 @@ Functor Bot Auto Checkin Every 24h
 # How to run 
 ## clone the repository
 ```bash
-git clone https://github.com/nongdancryptos/Functor-Bot.git
-cd functot
+git clone https://github.com/nongdancryptos/Functor-Automate.git
+cd Functor-Automate
 ```
 ## install the requirements
 ```bash
